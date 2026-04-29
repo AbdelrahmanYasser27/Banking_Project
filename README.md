@@ -33,7 +33,7 @@ Data Analysis with DAX
 Developed KPIs (Key Performance Indicators)
 Created calculated columns and measures
 Enabled deeper analytical insights
- Dashboard Development
+Dashboard Development
 Built an interactive Excel dashboard
 Visualized key banking metrics, including:
 Loan Distribution
@@ -44,9 +44,9 @@ Key Insights
 Identified patterns in loan distribution across branches
 Highlighted high-risk loans for better decision-making
 Segmented customers based on financial behavior
-🚀 Skills Gained
+Skills Gained
 Data Cleaning & Transformation
 Data Modeling (Star Schema)
-DAX & KPI Development
-Dashboard Design & Data Visualization
+DAX and KPI Development
+Dashboard Design and Data Visualization
 Understanding of Banking Data
