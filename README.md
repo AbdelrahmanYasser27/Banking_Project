@@ -1,4 +1,4 @@
-Banking Data Analysis Project (Excel)
+#Banking Data Analysis Project (Excel)
 Overview
 
 This project is part of my journey in learning Data Analysis.
